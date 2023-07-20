@@ -17,6 +17,9 @@ To view the webpage, simply open the `index.html` file in your web browser.
 - Responsive design for different devices.
 - Styled using CSS.
 
+## View the webpage
+You can view the live webpage by clicking [here](https://axolotilandiakawaii.netlify.app/).
+
 ## Screenshots
 
 ![Screenshot 1](axolotlSS1.png)
